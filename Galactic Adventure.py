@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Nebula Relay (Milestone #1)
+Galactic Adventure(Milestone #1)
 A small, inclusive, interactive sci-fi terminal game designed to demo:
 - 3 user stories with functional acceptance criteria
 - 8 Inclusivity Heuristics (implemented in UI + flow)
@@ -459,3 +459,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
